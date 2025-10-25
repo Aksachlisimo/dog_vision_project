@@ -43,10 +43,10 @@ The project follows a complete ML pipeline — from data preprocessing and augme
 - Learned to build and fine-tune CNNs for image classification tasks.
 
 ## 📁 Notebook
-- [View Project Notebook](./end-to-end-dog-vision-video.ipynb)
+- [View Project Notebook](https://github.com/Aksachlisimo/dog_vision_project)
 
 ## 🛠️ Setup Instructions
-- Clone the repository: `git clone https://github.com/mrdbourke/zero-to-mastery-ml.git`  
+- Clone the repository: `git clone https://github.com/Aksachlisimo/dog_vision_project`  
 - Install dependencies: `pip install -r requirements.txt` *(create if not present: tensorflow, numpy, matplotlib, seaborn)*  
 - Open the notebook in Jupyter and run all cells.
 
